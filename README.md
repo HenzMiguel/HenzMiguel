@@ -19,48 +19,33 @@ Here are some ideas to get you started:
 
 <h2>Olá estou estudando atualmente: </h2>
 
-<div style="display:flex; align-items:flex-start; gap:15px; margin:25px 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="250">
-  <p style="margin:0;">
-    Um Framework de deep learning, estou estudando conceitos básicos como
-    MLPs, RNN e algumas coisas a mais como Deep Reinforcement Learning.
-  </p>
-</div>
 
-<div style="display:flex; align-items:flex-start; gap:15px; margin:25px 0;">
-  <img src="Huggingface.png" width="250">
-  <p style="margin:0;">
-    Uma plataforma para modelos de IA, principalmente de Large Language Models.
-    Empresa que criou a biblioteca Transformers, que uso constantemente na minha
-    pesquisa científica como bolsista PIBIC.
-  </p>
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="250" style= "margin-top:25px">
 
-<div style="display:flex; align-items:flex-start; gap:15px; margin:25px 0;">
-  <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="250">
-  <p style="margin:0;">
-    Uma biblioteca para criação de agents com LLMs. Utilizo também o LangGraph,
-    que é da mesma empresa, porém dá mais controle ao que a LLM pode ou não fazer.
-  </p>
-</div>
+### Um Framework de deep learning, estou estudando conceitos básicos como MLPs, RNN e algumas coisas a mais como Deep Reinforcement Learning.
 
-<div style="display:flex; align-items:flex-start; gap:15px; margin:25px 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/960px-FastAPI_logo.svg.png?20240902201856" width="250">
-  <p style="margin:0;">
-    Uma biblioteca para criação rápida de APIs. Suporta Jinja2 e tem métodos
-    de autenticação.
-  </p>
-</div>
 
-<div style="display:flex; align-items:flex-start; gap:15px; margin:25px 0;">
-  <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg" width="250">
-  <p style="margin:0;">
-    Uma biblioteca para criação de ORM com anotações de tipo do Pydantic.
-    Essencialmente é a combinação do SQLAlchemy e Pydantic.
-  </p>
-</div>
 
-<html>
+<img src="Huggingface.png" width="250" style= "margin-top:25px; margin-bottom:-25px">
+
+### Uma plataforma para modelos de IA, principalmente de Large Language Models. Empresa que criou a biblioteca Transformers, que uso constantemente na minha pesquisa científica como bolsista PIBIC.
+
+
+
+<img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="250" style= "margin-top:25px">
+
+### Uma biblioteca para criação de agents com LLMs. Utilizo também o LangGraph, que é da mesma empresa, porém dá mais controle ao que a LLM pode ou não fazer.
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/960px-FastAPI_logo.svg.png?20240902201856" width="250" style= "margin-top:25px">
+
+### Uma biblioteca para criação rápida de APIs. Suporta Jinja2 e tem métodos de autenticação.
+
+
+<img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg" width="250" style= "margin-top:25px; margin-bottom:-25px">
+
+### Uma biblioteca para criação de ORM com anotações de tipo do Pydantic. Essencialmente é a combinação do SQLAlchemy e Pydantic.
+
 
 ## Contato:
 
